@@ -12,6 +12,10 @@ Slither: https://github.com/crytic/slither
 and provides an PI to write custom analysis. 
 - This enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses
 
+Crytic-compile: https://github.com/crytic/crytic-compile
+- Crytic-compile is a library to help smart contract compilation with support for most major development frameworks
+
+
 Tool: https://github.com/crytic/echidna
 Supporting Resources
 - Coinmonks: Smart Contract Fuzzing - https://medium.com/coinmonks/smart-contract-fuzzing-d9b88e0b0a05
